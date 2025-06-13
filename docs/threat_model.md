@@ -63,7 +63,3 @@ the VLM violate its system-level rules.
    1. *Baseline* → record ASR₀, utility₀.  
    2. *VisSafe on* → record ASR₁, utility₁.  
 3. **Report**   Table (ASR₀ → ASR₁, Utility Δ) + per-sample JSON logs.
-
----
-
-*Maintainer — \<Your Name\> ( \<email\> ). Please open an issue for clarifications or extensions.*
